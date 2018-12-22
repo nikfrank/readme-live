@@ -39,6 +39,13 @@ emacs ./README.md
 then I wrote this readme withe project already!
 
 
+<details>
+<summary>blah</summary>
+```js
+const blah = (()=>0)();
+```
+</details>
+
 ## usage
 
 ```
